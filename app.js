@@ -8,8 +8,7 @@ function validPos(x, y){
 function isEnd(currPos, end){
     return currPos[0] == end[0] && currPos[1] == end[1] 
 }
-
-//
+z
 function moveKnight(startPos, endPos){
     // Define the valid moves a knight can make
     const moves = [[-2, -1], [-2, 1], [-1, -2], [-1, 2],[1, -2], [1, 2], [2, -1], [2, 1]]
@@ -70,7 +69,6 @@ function main(){
     for(let i = 0; i < path.length; i++){
         console.log(`     Step ${i + 1}: ${squares[path[i][0]]}${path[i][1] + 1}`)
     }
-
 }
 
 main()
