@@ -22,9 +22,9 @@ The goal is to determine the shortest path a knight takes from a starting positi
 - Algorithm: **Breadth-First Search (BFS)**
 - Hosted on **Vercel**
 
-## 📸 Screenshot
+## 📸 Example
 
-_coming soon_
+![Knight Travails Screenshot](./public/img/screenshot.png)
 
 ## 🚀 Usage
 
